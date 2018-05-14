@@ -1,7 +1,7 @@
 # WebDev1-norooment
 First web dev project for first client
 
-Members:
+Team:
 1. Dante
 2. Harry
 3. Adi
